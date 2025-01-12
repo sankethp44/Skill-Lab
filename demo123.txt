@@ -1,0 +1,6 @@
+12 
+23
+34
+45
+
+to install open ssh, connect from 1 machine using ssh with password and without password(ssh key)
