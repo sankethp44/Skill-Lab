@@ -1,0 +1,7 @@
+IOT Skill lab session was held on 9th and 10th jan
+1) First!, We managed to successfully create a model with a ultrasonic sensor and a buzzer, which will beep when the obstacle is near to it by 10m or less.
+2) Simple led blinking in a sequence of delay 1second.
+3) Using dt11 we managed to find out the temperature of the room and get the output on the serial monitor.
+4) Displayed a simple hello world on the given oled screen.
+5) Next we combined both the dt11 and oled to check the room temperature and display it on the oled screen.
+6) Lastly we got a button through which we managed to work around with it to lit the led when the button is pressed.
